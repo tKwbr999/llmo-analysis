@@ -1,6 +1,6 @@
 # llmo-analysis
 
-> LLMによるリポジトリ分析プロジェクト
+> LLMO（Large Language Model Optimization）分析プロジェクト
 
 ## 主要コンテンツ
 
