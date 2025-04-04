@@ -1,0 +1,16 @@
+# llmo-analysis
+
+> LLMによるリポジトリ分析プロジェクト
+
+## 主要コンテンツ
+
+*   [README](https://github.com/tKwbr999/llmo-analysis/blob/main/README.md) - プロジェクト概要
+*   [main.go](https://github.com/tKwbr999/llmo-analysis/blob/main/cmd/main.go) - メイン処理
+
+## 会社情報
+
+*   著者: @tkwr999
+*   X: https://x.com/tkwbr999
+*   Zenn: https://zenn.dev/tkwbr999
+*   Wantedly: https://wantedly.com/id/tkwbr999
+*   GitHub: https://github.com/tKwbr999/
